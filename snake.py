@@ -1,3 +1,7 @@
+# Developer: Nathan Vuong
+# Date: 6/16/2022
+# Version: 1.0.0 - Created
+
 import pygame
 import random
 
